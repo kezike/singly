@@ -1,0 +1,41 @@
+body {
+	background-image: url("http://www.electrovibes2k16.in/files/sing.jpg");
+	color: #FFFFFF;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #FFFFFF;
+    /*background-color: #000000;*/
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+ .home_menu_item {
+ 	background-color: #000000;
+ }
+
+ #login_button {
+ 	float: right;
+ 	color: #000000;
+ 	background-color: #808080;
+ }
+
+#singly_blurb {
+	text-align: center;
+}
